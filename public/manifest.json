@@ -1,0 +1,20 @@
+{
+  "name": "Tale Sparks",
+  "short_name": "Tale Sparks",
+  "description": "Personalised AI bedtime stories for children",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "entertainment", "books"],
+  "lang": "en-AU"
+}
